@@ -30,11 +30,11 @@
   - Public fields: 🖐️ used
   - Private fields: 🖐️ used
   - Field declarations
-  - Inheritance
-  - Parent class
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
   - Polymorphism: 🖐️ used
   - Abstract class: 🖐️ used
-  - Interface
+  - Interface: 🎓 known
   - Encapsulation
   - Hidden class: 🖐️ used
   - Object form

@@ -2,7 +2,7 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js: 👂 heard
-  - Stateful and stateless servers
+  - Stateful and stateless servers: 🎓 known
   - Nonblocking I/O and slocking code: 🎓 known
   - Event loop: phases
   - Event loop: microtasks and macrotasks
@@ -11,14 +11,14 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules: 🎓 known and used few times
+  - ECMAScript modules: 🎓 known
+  - node:module: 🖐️ used
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -84,7 +84,7 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions
+  - IP sticky sessions: 🎓 known
   - Endpoint throttling
   - HTTP(S): 👂 heard
   - TCP/SSL: 👂 heard
@@ -131,12 +131,12 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository
+  - Repository: 🎓 known
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error: 🎓 known
   - error.cause
   - error.code
   - error.message
@@ -167,4 +167,4 @@
   - Webassembly AssemblyScript
   - Shared memory
   - SharedArrayBuffer
-  - V8 binary serialization
+  - V8 binary serialization: 🎓 known

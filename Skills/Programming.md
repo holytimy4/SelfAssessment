@@ -13,7 +13,7 @@
   - procedure: 🎓 known
   - method: 🖐️ used
   - class: 🖐️ used
-  - prototype
+  - prototype: 🎓 known
   - event: 🖐️ used
   - type: 🖐️ used
   - primitive types: 🖐️ used
@@ -56,7 +56,7 @@
   - array: 🖐️ used
   - structure: 🖐️ used
   - record
-  - enum
+  - enum: 🎓 known
   - instance: 🖐️ used
   - object: 🖐️ used
   - class: 🖐️ used
@@ -70,7 +70,7 @@
   - queue: 🖐️ used
   - stack: 🖐️ used
   - deque
-  - tree
+  - tree: 🎓 known
   - graph: 🖐️ used
   - iterator: 🖐️ used
   - mutable state: 🖐️ used
@@ -78,8 +78,8 @@
   - serialization: 🖐️ used
   - string parsing
 - Process & style
-  - compiler
-  - transpiler
+  - compiler: 🎓 known
+  - transpiler: 🎓 known
   - linter: 🖐️ used
   - polyfill
   - debugger: 🖐️ used

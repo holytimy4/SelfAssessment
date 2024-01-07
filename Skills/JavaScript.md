@@ -13,9 +13,9 @@
   - ...rest:🙋 explained
   - typeof: 🙋 explained
   - destructuring: 🙋 explained
-  - generator
-  - iterator
-  - async generator
+  - generator: 🎓 known
+  - iterator: 🎓 known
+  - async generator: 🎓 known
   - async iterator
   - chaining: 🖐️ used
   - optional chaining
@@ -32,13 +32,13 @@
   - ternary operator: 🖐️ used
   - void
   - yield
-  - await
+  - await: 🎓 known
   - template literal
   - strict mode: 🖐️ used
   - delete
   - in
   - super
-  - Symbol
+  - Symbol: 🎓 known
   - Reflect
 - Statements
   - if: 🙋 explained
@@ -47,8 +47,8 @@
   - for: 🙋 explained
   - for..in: 🙋 explained
   - for..of: 🙋 explained
-  - for await
-  - throw
+  - for await: 🎓 known
+  - throw: 🎓 known
   - break: 🙋 explained
   - continue: 🖐️ used
   - import: 🖐️ used
@@ -56,8 +56,8 @@
   - label
   - try..catch: 🙋 explained
   - switch: 🙋 explained
-  - class
-  - new Error
+  - class: 🖐️ used
+  - new Error: 🖐️ used
   - with
 - Functions
   - function declaration: 🖐️ used
@@ -78,7 +78,7 @@
   - weak collections: 🎓 known
   - timers
   - EventEmitter: 🖐️ used
-  - RegExp
+  - RegExp: 🎓 known
   - Date: 🖐️ used
   - BigInt
 - Infrastructure
