@@ -13,8 +13,8 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
-  - Dead locks
+  - Race conditions: 🎓 known
+  - Dead locks: 👂 heard
   - Live locks
   - Concurrent programming
   - Parallel programming
@@ -30,8 +30,8 @@
   - Future
   - Deferred
   - Sync generator
-  - Async Generator:
-  - Async Iterator:
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
   - Event
   - Coroutine
   - Goroutine
@@ -52,8 +52,8 @@
   - Readable
   - Writable
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool: 🎓 known
+  - Async Queue: 🎓 known
   - Async Collector
   - Semaphore
   - Mutex
@@ -83,7 +83,7 @@
 - Techniques
   - async.js library: 🎓 known
   - RxJS library
-  - Async composition
+  - Async composition: 🎓 known
   - Promise.all: 🎓 known
   - Promise.allSettled
   - Promise.race: 🎓 known
